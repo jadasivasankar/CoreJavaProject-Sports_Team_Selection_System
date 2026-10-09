@@ -1,0 +1,3 @@
+1|Attacker|Naveen|9|8|7|10
+2|Defender|Kiran|6|7|8|8
+3|Attacker|mani|3|10|10|10
